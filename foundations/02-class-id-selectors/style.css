@@ -1,0 +1,20 @@
+
+.pink-boy {
+    background-color: rgb(239, 72, 150);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#blue-boy {
+    color: rgb(25, 25, 161);
+    font-size: 36px;
+}
+
+.pink-boy.cool-boy,
+#green-boy{
+    font-size: 24px;
+}
+
+#green-boy {
+    background-color: rgb(71, 219, 71);
+    font-weight: bold;
+}
